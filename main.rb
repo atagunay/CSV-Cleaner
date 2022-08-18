@@ -24,7 +24,3 @@ end
 
 # call clean_data method here
 #...
-
-
-
-
